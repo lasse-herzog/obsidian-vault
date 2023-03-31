@@ -1,0 +1,4 @@
+## Definition
+Unter einer *Funktion von zwei unabhängigen Variablen* versteht man eine Vorschrift, die jedem geordneten Zahlenpaar $(x,y)$ aus eine Menge $D$ genau ein Element $z$ aus einer Menge $W$ zuordnet. Symbolische Schreibweise: $$z=f(x,y) \qquad \text{oder} \qquad z=z(x,y)$$
+2. Die Definitionsmenge ist in unserem Fall stets eine Teilmenge des Raums $\mathbb{R}^2 = \mathbb{R} \times \mathbb{R}$ bzw. der Raum $\mathbb{R}^2 = \mathbb{R} \times \mathbb{R}$ selbst, die Wertemenge ist eine Teilmenge von $\mathbb{R}$ bzw. $\mathbb{R}$ selbst. Man findet in der Literatur oft die Schreibweise: $f: D \rightarrow W$ bzw. $f: \mathbb{R}^2 \rightarrow \mathbb{R}$ . 
+3. 

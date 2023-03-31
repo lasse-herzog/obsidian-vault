@@ -1,0 +1,5 @@
+- $\verb/a/ \Rightarrow$ Zeichen $\verb/a/$
+- $\verb/./ \Rightarrow$ beliebiges Zeichen
+- $\verb/[...]/ \Rightarrow$ Zeichenklasse: beliebiges von den angegebenen Zeichen
+- $\verb/[^...]/ \Rightarrow$ Zeichenklasse: beliebiges Zeichen, außer den angegebenen Zeichen
+- $\verb/[A-Z]/ \Rightarrow$ "Range" in Zeichenklasse: beliebiges Zeichen im Bereich von  $\verb/A/$ bis $\verb/Z/$

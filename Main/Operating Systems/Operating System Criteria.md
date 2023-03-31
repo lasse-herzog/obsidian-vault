@@ -1,0 +1,5 @@
+- [[Singletasking]] or [[Multitasking]]
+- [[Single-User]] or [[Multi-User]]
+- [[Length of Memory Adress]]
+- [[Real time operating systems]]
+- [[Distribution(Distibuted Operatin systems)]]

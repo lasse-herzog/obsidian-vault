@@ -1,0 +1,3 @@
+Eine *inhomoogene lineare* DGL $1.$ Ordnung vom Typ $$y\prime+f(x)\cdot y=g(x)$$lässt ich durch "Variation der Konstatnten" schrittweise wie folgt lösen:
+1. Integration der zu gehörigen homogenen DGL $y\prime+f(x)\cdot y=0$,
+2. Variation der Konstanten: Die Integrationskonstante $K$ wird durch eine Funktion $K(x)$ ersetzt. Den Lösungsanssatz $$y=K(x)\cdot e^{\int{f(x)dx}}$$setzt man dann in die *inhomogene* DGL ein und erhält eine einfache DGL $1.$ Ordnung für die Faktorfunktion $K(x)$, die durch Integration direkt gelöst werden kann.

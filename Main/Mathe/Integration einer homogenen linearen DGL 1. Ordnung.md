@@ -1,0 +1,1 @@
+Eine *homogene lineare* DGL $1.$ Ordnung vom Typ $$y\prime+f(x)\cdot y =0$$wird durch Trennung der Variablen gelöst. Die allgemeine Lösung ist dann in der Form $$y=c\cdot e^{-\int{f(x)dx}}\quad (c\in \mathbb{R})$$darstellbar.

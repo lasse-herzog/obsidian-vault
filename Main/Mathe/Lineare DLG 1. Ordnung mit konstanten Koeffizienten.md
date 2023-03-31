@@ -1,0 +1,3 @@
+Eine linear DGL $1.$ Ordnung mit konstanten Koeffizienten kann in der Form $$y\prime +a\cdot y=g(x)\quad (a\in\mathbb{R}\setminus\{0\})$$ geschrieben werden und stellt einen Spezialfall der linearen DGL $1.$ Ordnung dar.
+
+Die *homogene* DGL besitzt die allgemein Lösung $$y_0=c\cdot e^{-a\cdot x}\quad(x\in\mathbb{R})$$Die inhomogene DGl kann wie gehabt durch Variation der Konstanten oder durch Aufsuchen einer partikulären Lösung gelöst werden. In letzterem Fall ist ein geeigneter Lösungsansatz zu wählen

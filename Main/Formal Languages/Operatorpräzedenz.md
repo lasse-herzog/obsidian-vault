@@ -1,0 +1,1 @@
+Seien $u$ und $v$ Wörter. Die [[K-fache Konkatenation von Wörtern]] $u^n$ bindet stärker als die einfache [[Konkatenation von Wörtern]] $uv$. Ansonsten muss geeignet geklammert werden,  beispielsweise $(uv)^k$.

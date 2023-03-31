@@ -1,0 +1,4 @@
+- $\verb/(...)/ \Rightarrow$ Gruppe
+- - $\verb/(...)/ \Rightarrow$ Gruppe
+- $\verb/(...)/ \Rightarrow$ Gruppe
+- $\verb/(...)/ \Rightarrow$ Auswahl / Alternative / oder

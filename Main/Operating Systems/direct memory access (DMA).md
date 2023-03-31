@@ -1,0 +1,1 @@
+Instead of interrupting after one byte with DMA the device controller only interrupts after an entire block of data has been transferred.

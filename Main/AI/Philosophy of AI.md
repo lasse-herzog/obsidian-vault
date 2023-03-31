@@ -1,0 +1,4 @@
+The very nature of the term “artificial intelligence” brings up philosophical questions whether intelligent behavior implies or requires the existence of a mind, and to what extent is consciousness replicable as computation.
+One of the most prominent tests for intelligence is the [[Turing test]]. It assumes that if a being is intelligent it cannot be distinguished from another intelligent entity. One criticism of the Turing test is that it measures more if a computer behaves human rather than if its intelligent. 
+
+Some made the point that intelligence might not be the same as intelligent behavior. One of the best known arguments to this thesis is the [[Chinese Room argument]].

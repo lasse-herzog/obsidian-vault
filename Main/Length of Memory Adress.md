@@ -1,0 +1,1 @@
+The length of the memory adress (8/16/32/64-bit) depends on the length of the adress bus and dictates how many bytes of memory the OS can adress.

@@ -1,0 +1,1 @@
+[Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) (1912-1954) was an English mathematician and logician. He is rightfully considered to be the father of computer science. Turing’s most prominent contribution to AI is his imitation game, which later became known as the [[Turing Test]].

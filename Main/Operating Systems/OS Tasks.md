@@ -1,0 +1,9 @@
+- Memory managment
+- Process managment
+- Storage managment
+- Device managment
+- Security
+- Time managment
+- Hardware abstraction
+- Power management
+- fault tolerance

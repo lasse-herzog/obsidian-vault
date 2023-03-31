@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Shorthands",
+      "path": "Formal Languages/Regex/Shorthands.md"
+    },
+    {
+      "type": "file",
+      "title": "Grouping",
+      "path": "Formal Languages/Regex/Grouping.md"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+- $\verb/\w/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$
+- $\verb/\W/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$
+- $\verb/\w/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$
+- $\verb/\w/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$
+- $\verb/\w/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$
+- - $\verb/\w/ \Rightarrow$ entspricht $\verb/[A-Za-z0-9]/$

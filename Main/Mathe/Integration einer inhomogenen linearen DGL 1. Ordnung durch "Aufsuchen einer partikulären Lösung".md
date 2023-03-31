@@ -1,0 +1,5 @@
+Die allgemeine Lösung $y=y(x)$ einer *inhomogenen linearen* DGL $1.$ Ordnung $$y\prime+f(x)\cdot y=g(x)$$ist als *Summe*  aus der allgemeinen Lösung $y_0=y_0(x)$ der zugehörigen *homogenen* linearen DGL $$y\prime+f(x)\cdot y=0$$und einer (beliebigen) *partilkulären* Lösung $y_p=y_p(x)$ der inhomogenen linearen DGL darstellbar, d.h. $$y(x)=y_0(x)+y_p(x).$$ **Lösungsverfahren:**
+Eine *inhomogene lineare* DGL $1.$ Ordnung vom Typ $$y\prime+f(x)=g(x)$$lässt sich in vielen Fällen wie folgt  lösen:
+1. Integration der zugehörigen homogenen DGl (siehe oben) zur Erlangung der homogenen Lösung $y_0$. 
+2. Mit Hilfe eines geeigneten Lösungsansatzes, der noch einen oder mehrere Parameter enthält, wird eine partikuläre Lösung $y_p$ der inhomogenen linearen DGl bestimmt. 
+3. Die allgemeine Lösung y der inhomogenen linearen DGl ist dann die Summe aus $y_0$ und der partikulären Lösung $y_p$ , d.h.  $y=y_0+y_p$.

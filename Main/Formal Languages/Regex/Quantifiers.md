@@ -1,0 +1,7 @@
+- $\verb/*/ \Rightarrow$ entspricht beliebig oft (auch 0-mal)
+- $\verb/+/ \Rightarrow$ beliebig oft, mindestens einmal
+- $\verb/?/ \Rightarrow$ 0-mal oder 1-mal
+- $\verb/{/n\verb/}/ \Rightarrow$ genau $n$-mal
+- $\verb/{/n\verb/,/m\verb/}/ \Rightarrow$ mindestens $n$-mal, maximal $m$-mal
+- $\verb/{/n\verb/,}/ \Rightarrow$ mindestens $n$-mal
+- $\verb/{,/m\verb/}/ \Rightarrow$ mindestens 0-mal, maximal $m$-mal

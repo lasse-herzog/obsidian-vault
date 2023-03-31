@@ -1,0 +1,2 @@
+## Definition
+Eine Funktion $y = y(x)$ heißt eine Lösung der DGL, wenn sie mit ihren Ableitungen die DGL identisch erfüllt. Dabei enthält die *allgemeine* Lösung einer DGL $n$-ter Ordnung noch $n$ frei wählbare Parameter (Integrationskonstanten). Eine *spezielle* oder *partikuläre* Lösung wird aus der allgemeinen Lösung gewonnen, indem man aufgrund zusätzlicher Bedingungen den $n$ Parametern *feste* Werte zuweist. Dies kann z.B. durch *Anfangsbedingungen* oder durch Randbedingungen*Randbedingungen* geschehen

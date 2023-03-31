@@ -1,0 +1,1 @@
+Seien $u$ und $v$ Wörter über \Sigma. $u$ heißt *Suffix* von $w$, falls $\exists v \in \Sigma^* : w = vu$

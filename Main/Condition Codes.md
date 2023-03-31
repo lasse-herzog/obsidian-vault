@@ -1,0 +1,5 @@
+|cond|Mnemonic|Meaning (integer)|Meaning (floating-point)a|Condition flags|
+|-|-|-|-|-|
+|0000|EQ|Equal|Equal|Z == 1|
+|0001|NE|Not equal|Not equal or unordered|Z == 0|
+0010 CS or HS Carry set Greater than, equal, or unordered C == 1 0011 CC or LO Carry clear Less than C == 0 0100 MI Minus, negative Less than N == 1 0101 PL Plus, positive or zero Greater than, equal, or unordered N == 0 0110 VS Overflow Unordered V == 1 0111 VC No overflow Ordered V == 0 1000 HI Unsigned higher Greater than, or unordered C ==1 && Z == 0 1001 LS Unsigned lower or same Less than or equal !(C ==1 && Z ==0) 1010 GE Signed greater than or equal Greater than or equal N == V 1011 LT Signed less than Less than, or unordered N! = V 1100 GT Signed greater than Greater than Z == 0 && N == V 1101 LE Signed less than or equal Less than, equal, or unordered !(Z == 0 && N == V) 1110 AL Always Always Any 1111 NVb Always Always Any
